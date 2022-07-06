@@ -29,8 +29,11 @@
   padding: 15px;
   padding-right: 30px;
   padding-left: 30px;
-  margin-top: 20px;
   border: 2px solid black;
+}
+
+a {
+  margin-top: 20px;
 }
 
 .second-section {
@@ -57,7 +60,6 @@
   padding: 15px;
   padding-right: 30px;
   padding-left: 30px;
-  margin-top: 20px;
   border: 2px solid black;
 }
 
@@ -85,7 +87,6 @@
   padding: 15px;
   padding-right: 30px;
   padding-left: 30px;
-  margin-top: 20px;
   border: 2px solid black;
 }
 
